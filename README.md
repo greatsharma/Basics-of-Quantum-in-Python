@@ -8,7 +8,7 @@ Basic quantum programming using IBM's **qiskit** in python.
 
 ### Quantum Entanglement<hr>
 
-3bits quantum-entanglement cirquit :-
+3-bits quantum-entanglement cirquit :-
 
 ![](img/qe_circ.png)
 
@@ -19,7 +19,7 @@ Simulation results :-
 
 ### Quantum Teleportation<hr>
 
-3bits quantum-teleportation cirquit :-
+1-bit quantum-teleportation cirquit :-
 
 ![](img/qt_circ.png)
 
